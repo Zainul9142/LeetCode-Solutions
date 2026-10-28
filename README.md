@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -83,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
