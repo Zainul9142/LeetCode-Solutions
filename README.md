@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1480-running-sum-of-1d-array](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
