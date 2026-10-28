@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Math
 |  |
@@ -38,4 +39,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
