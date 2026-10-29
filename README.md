@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0292-nim-game](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0523-continuous-subarray-sum](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -106,13 +107,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
