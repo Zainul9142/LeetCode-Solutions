@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Hash Table
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Tree
 |  |
 | ------- |
