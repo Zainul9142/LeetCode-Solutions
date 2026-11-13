@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2747-count-zero-request-servers](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Math
 |  |
 | ------- |
@@ -97,16 +98,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Sliding Window
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2747-count-zero-request-servers](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -211,4 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
