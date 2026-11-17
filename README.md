@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Array
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Queue
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Graph Theory
 |  |
