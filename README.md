@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3934-smallest-unique-subarray](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2747-count-zero-request-servers](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3934-smallest-unique-subarray](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -247,4 +250,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
