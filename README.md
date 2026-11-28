@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3934-smallest-unique-subarray](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Math
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Stack
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Zainul9142/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Tree
 |  |
 | ------- |
